@@ -1,6 +1,15 @@
 # crm-base
 
-> A solid, self-hostable CRM template built on **[Twenty](https://github.com/twentyhq/twenty)** — fork it per use case, customize, ship.
+> ## ⚡ Fork of [Twenty](https://github.com/twentyhq/twenty) — the open-source CRM
+>
+> **This is a derivative work. It is _not_ affiliated with, endorsed by, or maintained by the Twenty team.**
+> The entire CRM engine is built and owned by the [Twenty](https://twenty.com) project and its contributors — **all credit goes to them.** This repo is a personal template that tracks upstream and will be customized over time.
+>
+> - 🔗 Original project: **[twentyhq/twenty](https://github.com/twentyhq/twenty)**
+> - 📄 Twenty's original README is preserved verbatim at **[`README.upstream.md`](./README.upstream.md)**
+> - ⚖️ License inherited from upstream — see [`LICENSE`](./LICENSE)
+
+A solid, self-hostable CRM **template** built on Twenty — fork it per use case, customize, ship.
 
 This repository is a **reusable base** for building tailored CRMs. It starts from the open-source [Twenty](https://twenty.com) codebase and is meant to be declined into purpose-specific products (one repo per use case) while keeping a clean, upstream-trackable foundation.
 

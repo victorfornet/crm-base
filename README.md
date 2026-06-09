@@ -1,9 +1,9 @@
 # crm-base
 
-> ## ⚡ Fork of [Twenty](https://github.com/twentyhq/twenty) — the open-source CRM
+> ## ⚡ Fork of [Twenty](https://github.com/twentyhq/twenty), the open-source CRM
 >
 > **This is a derivative work. It is _not_ affiliated with, endorsed by, or maintained by the Twenty team.**
-> The entire CRM engine is built and owned by the [Twenty](https://twenty.com) project and its contributors — **all credit goes to them.** This repo is a personal template that tracks upstream and will be customized over time.
+> The entire CRM engine is built and owned by the [Twenty](https://twenty.com). This repo is a personal template that tracks upstream and will be customized over time.
 >
 > - 🔗 Original project: **[twentyhq/twenty](https://github.com/twentyhq/twenty)**
 > - 📄 Twenty's original README is preserved verbatim at **[`README.upstream.md`](./README.upstream.md)**
